@@ -88,13 +88,6 @@ I enjoy building practical applications, experimenting with machine learning mod
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tayassukmdabir95&theme=github-compact&hide_border=true&area=true" width="100%" alt="Tayassuk Md Abir GitHub Activity Graph" />
-</p>
-
----
 
 ## 👀 Profile Views
 
