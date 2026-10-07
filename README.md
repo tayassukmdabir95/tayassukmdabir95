@@ -1,9 +1,11 @@
+<p align="center">
+  <img src="./banner.png" alt="Tayassuk Md Abir - Machine Learning & Full-Stack Developer" width="100%" />
+</p>
+
 # Hi 👋, I'm Tayassuk Md Abir
 ### Machine Learning & Full-Stack Developer
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=220&section=header&text=Tayassuk%20Md%20Abir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=20" />
-</p>
+
 
 ---
 
